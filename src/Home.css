@@ -5,7 +5,7 @@
     
 }
 body { 
-    background-color: rgb(255, 210, 226); 
+    background-color: rgb(255, 255, 255); 
 }
 .Homeimg1 {
     position: absolute;
@@ -16,7 +16,7 @@ body {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     padding-top: 10rem;
     padding-left: 10rem;
-    color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0); 
     font-size: 30px; 
 
 }
